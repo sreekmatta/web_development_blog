@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Experiments with Web Application Development
 
-You can use the [editor on GitHub](https://github.com/sreekmatta/web_development_blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website is about my experiences and experiments in developing web applications using various latest technologies like Angular, React, Redux, React-Native, Spring-Boot etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I am Sree Keerthi Matta. I loving coding since the age of 10. I have been writing code since then. I am a Masters student at Northeastern University, Boston. Writing blogs was never so much my passion but once I started working as a Teaching assistant for my favorite course Web Development during my Masters, I discovered that I am a passionate writer too (I mean passionate blogger for code). So, here I will share my experiments and experiences with latest technologies and my learnings from the bugs and issues I faced during application development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check me out on   
+(linkedin)[https://www.linkedin.com/in/sreekmatta/]  
+(GitHub)[https://github.com/sreekmatta]
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sreekmatta/web_development_blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
